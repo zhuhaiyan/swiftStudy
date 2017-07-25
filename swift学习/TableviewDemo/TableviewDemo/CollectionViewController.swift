@@ -4,7 +4,7 @@
 //
 //  Created by 朱海燕 on 2017/7/24.
 //  Copyright © 2017年 朱海燕. All rights reserved.
-//
+// http://blog.csdn.net/potato512/article/details/53081584
 
 import UIKit
 
@@ -83,10 +83,12 @@ class CollectionViewController: UIViewController,UICollectionViewDataSource,UICo
         
     }
     
-    func collectionView(_ collectionView: UICollectionView, viewForSupplementaryElementOfKind kind: String, at indexPath: IndexPath) -> UICollectionReusableView {
-
-        
-    }
+//    func collectionView(_ collectionView: UICollectionView, viewForSupplementaryElementOfKind kind: String, at indexPath: IndexPath) -> UICollectionReusableView {
+//
+//        
+//        
+//        
+//    }
     
     
     override func didReceiveMemoryWarning() {
